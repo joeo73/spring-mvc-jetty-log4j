@@ -1,7 +1,7 @@
 Spring MVC Embedded Jetty Example
 =================================
 
-I wasn't able to find this in the world and it took me a bit to put it together
+I wasn't able to find this in the world and it took me a bit to put it together.
 Hopefully this will save some one else some time if you want to utilize spring MVC without
 all the weight and dependencies of Spring Boot.
 
